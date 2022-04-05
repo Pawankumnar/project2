@@ -1,0 +1,610 @@
+{
+    "_id": "60858d7938b344c02a60c726",
+    "Name": "companies",
+    "Hashtag": [
+      {
+        "_id": "60858d8a38b344c02a60c727",
+        "Name": "#sonatasoftware"
+      },
+      {
+        "_id": {
+          "$oid": "62483aa0ccae32323abf19eb"
+        },
+        "Name": "#atossyntel"
+      },
+      {
+        "id": {
+          "$oid": "6248440dccae32323abf19fa"
+        },
+        "Name": "#genpact"
+      },
+      {
+        "id": {
+          "$oid": "62484473ccae32323abf19fb"
+        },
+        "Name": "#cisco"
+      },
+      {
+        "id": {
+          "$oid": "624844b5ccae32323abf19fc"
+        },
+        "Name": "#kpmg"
+      },
+      {
+        "id": {
+          "$oid": "624844f4ccae32323abf19fd"
+        },
+        "Name": "#musigma"
+      },
+      {
+        "id": {
+          "$oid": "6248453accae32323abf19fe"
+        },
+        "Name": "#robertbosch"
+      },
+      {
+        "id": {
+          "$oid": "624845a6ccae32323abf19ff"
+        },
+        "Name": "#sonatasoftware"
+      },
+      {
+        "id": {
+          "$oid": "624845e7ccae32323abf1a00"
+        },
+        "Name": "#pwc"
+      },
+      {
+        "id": {
+          "$oid": "6248461dccae32323abf1a01"
+        },
+        "Name": "#kpitkech"
+      },
+      {
+        "id": {
+          "$oid": "62484668ccae32323abf1a02"
+        },
+        "Name": "#koforgeltd"
+      },
+      {
+        "id": {
+          "$oid": "624ab0cc397ce206dec76b12"
+        },
+        "Name": "#innovation"
+      },
+      {
+        "id": {
+          "$oid": "624ab471397ce206dec76b1b"
+        },
+        "Name": "#innovation"
+      },
+      {
+        "id": {
+          "$oid": "624ab4b9397ce206dec76b1c"
+        },
+        "Name": "#management"
+      },
+      {
+        "id": {
+          "$oid": "624ab503397ce206dec76b1d"
+        },
+        "Name": "#humanresource"
+      },
+      {
+        "id": {
+          "$oid": "624ab55f397ce206dec76b1e"
+        },
+        "Name": "#digitalmarketing"
+      },
+      {
+        "id": {
+          "$oid": "624ab5aa397ce206dec76b1f"
+        },
+        "Name": "#technology"
+      },
+      {
+        "id": {
+          "$oid": "624ab5e9397ce206dec76b20"
+        },
+        "Name": "#creativity"
+      },
+      {
+        "id": {
+          "$oid": "624ab66c397ce206dec76b21"
+        },
+        "Name": "#future"
+      },
+      {
+        "id": {
+          "$oid": "624ab6b5397ce206dec76b22"
+        },
+        "Name": "#futurism"
+      },
+      {
+        "id": {
+          "$oid": "624ab712397ce206dec76b23"
+        },
+        "Name": "#entrepreneurship"
+      },
+      {
+        "id": {
+          "$oid": "624ab95d397ce206dec76b24"
+        },
+        "Name": "#careers"
+      },
+      {
+        "id": {
+          "$oid": "624ab9d5397ce206dec76b25"
+        },
+        "Name": "#market"
+      },
+      {
+        "id": {
+          "$oid": "624aba0d397ce206dec76b26"
+        },
+        "Name": "#startups"
+      },
+      {
+        "id": {
+          "$oid": "624aba63397ce206dec76b27"
+        },
+        "Name": "#marketing"
+      },
+      {
+        "id": {
+          "$oid": "624aba9b397ce206dec76b28"
+        },
+        "Name": "#socialmedia"
+      },
+      {
+        "id": {
+          "$oid": "624abadb397ce206dec76b29"
+        },
+        "Name": "#venturecapital"
+      },
+      {
+        "id": {
+          "$oid": "624abb33397ce206dec76b2a"
+        },
+        "Name": "#leanstartups"
+      },
+      {
+        "id": {
+          "$oid": "624abb94397ce206dec76b2b"
+        },
+        "Name": "#economy"
+      },
+      {
+        "id": {
+          "$oid": "624abbf8397ce206dec76b2c"
+        },
+        "Name": "#socialnetworking"
+      },
+      {
+        "id": {
+          "$oid": "624abc41397ce206dec76b2d"
+        },
+        "Name": "#economics"
+      },
+      {
+        "id": {
+          "$oid": "624abd3d397ce206dec76b2e"
+        },
+        "Name": "#branding"
+      },
+      {
+        "id": {
+          "$oid": "624abd83397ce206dec76b2f"
+        },
+        "Name": "#advertisigandmarketing"
+      },
+      {
+        "id": {
+          "$oid": "624abdd6397ce206dec76b30"
+        },
+        "Name": "#motivation"
+      },
+      {
+        "id": {
+          "$oid": "624abe13397ce206dec76b31"
+        },
+        "Name": "#personaldevelopment"
+      },
+      {
+        "id": {
+          "$oid": "624abe66397ce206dec76b32"
+        },
+        "Name": "#investing"
+      },
+      {
+        "id": {
+          "$oid": "624abe97397ce206dec76b33"
+        },
+        "Name": "#jobinterviews"
+      },
+      {
+        "id": {
+          "$oid": "624abeda397ce206dec76b34"
+        },
+        "Name": "#money"
+      },
+      {
+        "id": {
+          "$oid": "624abf07397ce206dec76b35"
+        },
+        "Name": "#backingindustry"
+      },
+      {
+        "id": {
+          "$oid": "624abf50397ce206dec76b36"
+        },
+        "Name": "#sustainability"
+      },
+      {
+        "id": {
+          "$oid": "624abf8d397ce206dec76b37"
+        },
+        "Name": "#alternativeenery"
+      },
+      {
+        "id": {
+          "$oid": "624ac09c397ce206dec76b38"
+        },
+        "Name": "#personalbranding"
+      },
+      {
+        "id": {
+          "$oid": "624ac0be397ce206dec76b39"
+        },
+        "Name": "#hiringandpromotion"
+      },
+      {
+        "id": {
+          "$oid": "624ac0e6397ce206dec76b3a"
+        },
+        "Name": "#healthare"
+      },
+      {
+        "id": {
+          "$oid": "624ac112397ce206dec76b3b"
+        },
+        "Name": "#education"
+      },
+      {
+        "id": {
+          "$oid": "624ac13d397ce206dec76b3c"
+        },
+        "Name": "#customerreltion"
+      },
+      {
+        "id": {
+          "$oid": "624ac160397ce206dec76b3d"
+        },
+        "Name": "#productivity"
+      },
+      {
+        "id": {
+          "$oid": "624ac192397ce206dec76b3e"
+        },
+        "Name": "#whatinspiresme"
+      },
+      {
+        "id": {
+          "$oid": "624ac1b6397ce206dec76b3f"
+        },
+        "Name": "#bestadvice"
+      },
+      {
+        "id": {
+          "$oid": "624ac1d9397ce206dec76b40"
+        },
+        "Name": "#bigdata"
+      },
+      {
+        "id": {
+          "$oid": "624ac1fc397ce206dec76b41"
+        },
+        "Name": "#travei"
+      },
+      {
+        "id": {
+          "$oid": "624bc6d3fd34eee2f4d34b0d"
+        },
+        "Name": "#gettingthingsdone "
+      },
+      {
+        "id": {
+          "$oid": "624bc755fd34eee2f4d34b13"
+        },
+        "Name": "#businessintelligence "
+      },
+      {
+        "id": {
+          "$oid": "624bc78efd34eee2f4d34b14"
+        },
+        "Name": "#softwareengineering "
+      },
+      {
+        "id": {
+          "$oid": "624bc7cefd34eee2f4d34b15"
+        },
+        "Name": "#programing "
+      },
+      {
+        "id": {
+          "$oid": "624bc80dfd34eee2f4d34b17"
+        },
+        "Name": "#analytics"
+      },
+      {
+        "id": {
+          "$oid": "624bc84bfd34eee2f4d34b18"
+        },
+        "Name": "#softwaredesign"
+      },
+      {
+        "id": {
+          "$oid": "624bc883fd34eee2f4d34b19"
+        },
+        "Name": "#datamining"
+      },
+      {
+        "id": {
+          "$oid": "624bc8b6fd34eee2f4d34b1a"
+        },
+        "Name": "#data"
+      },
+      {
+        "id": {
+          "$oid": "624bc8ebfd34eee2f4d34b1b"
+        },
+        "Name": "#socialentrepreneurs"
+      },
+      {
+        "id": {
+          "$oid": "624bc941fd34eee2f4d34b1c"
+        },
+        "Name": "#sales"
+      },
+      {
+        "id": {
+          "$oid": "624bca1cfd34eee2f4d34b1d"
+        },
+        "Name": "#fundraising "
+      },
+      {
+        "id": {
+          "$oid": "624bca5efd34eee2f4d34b1e"
+        },
+        "Name": "#law "
+      },
+      {
+        "id": {
+          "$oid": "624bca9dfd34eee2f4d34b1f"
+        },
+        "Name": "#lawandlegislation "
+      },
+      {
+        "id": {
+          "$oid": "624bcaf6fd34eee2f4d34b22"
+        },
+        "Name": "#legalissues"
+      },
+      {
+        "id": {
+          "$oid": "624bcb94fd34eee2f4d34b23"
+        },
+        "Name": "#strategy"
+      },
+      {
+        "id": {
+          "$oid": "624bcc57fd34eee2f4d34b24"
+        },
+        "Name": "#projectmanagement"
+      },
+      {
+        "id": {
+          "$oid": "624bccd6fd34eee2f4d34b26"
+        },
+        "Name": "#culture"
+      },
+      {
+        "id": {
+          "$oid": "624bcd60fd34eee2f4d34b27"
+        },
+        "Name": "#userexperience"
+      },
+      {
+        "id": {
+          "$oid": "624bcddbfd34eee2f4d34b28"
+        },
+        "Name": "#fashion"
+      },
+      {
+        "id": {
+          "$oid": "624bce28fd34eee2f4d34b29"
+        },
+        "Name": "#cloudcomputing"
+      },
+      {
+        "id": {
+          "$oid": "624bce75fd34eee2f4d34b2a"
+        },
+        "Name": "#mobileapplications"
+      },
+      {
+        "id": {
+          "$oid": "624bceb5fd34eee2f4d34b2b"
+        },
+        "Name": "#consultants "
+      },
+      {
+        "id": {
+          "$oid": "624bcf3afd34eee2f4d34b2c"
+        },
+        "Name": "#productmanagement "
+      },
+      {
+        "id": {
+          "$oid": "624bcf80fd34eee2f4d34b2d"
+        },
+        "Name": "#business"
+      },
+      {
+        "id": {
+          "$oid": "624bcfcdfd34eee2f4d34b2e"
+        },
+        "Name": "#networking"
+      },
+      {
+        "id": {
+          "$oid": "624bd007fd34eee2f4d34b2f"
+        },
+        "Name": "#leadership"
+      },
+      {
+        "id": {
+          "$oid": "624bd03ffd34eee2f4d34b30"
+        },
+        "Name": "#artificialintelligence"
+      },
+      {
+        "id": {
+          "$oid": "624bd081fd34eee2f4d34b31"
+        },
+        "Name": "#hiring"
+      },
+      {
+        "id": {
+          "$oid": "624bd0c0fd34eee2f4d34b32"
+        },
+        "Name": "#health"
+      },
+      {
+        "id": {
+          "$oid": "624bd0edfd34eee2f4d34b33"
+        },
+        "Name": "#engineering"
+      },
+      {
+        "id": {
+          "$oid": "624bd124fd34eee2f4d34b34"
+        },
+        "Name": "#mindfulness"
+      },
+      {
+        "id": {
+          "$oid": "624bd16dfd34eee2f4d34b35"
+        },
+        "Name": "#jobsearch"
+      },
+      {
+        "id": {
+          "$oid": "624bd1eafd34eee2f4d34b37"
+        },
+        "Name": "#africa"
+      },
+      {
+        "id": {
+          "$oid": "624bd1a9fd34eee2f4d34b36"
+        },
+        "Name": "#jobseekers"
+      },
+      {
+        "id": {
+          "$oid": "624bd22bfd34eee2f4d34b38"
+        },
+        "Name": "#deeplearning"
+      },
+      {
+        "id": {
+          "$oid": "624bd26afd34eee2f4d34b39"
+        },
+        "Name": "#hr"
+      },
+      {
+        "id": {
+          "$oid": "624bd3fcfd34eee2f4d34b3a"
+        },
+        "Name": "#smallbusiness"
+      },
+      {
+        "id": {
+          "$oid": "624bd43dfd34eee2f4d34b3b"
+        },
+        "Name": "#workingathome"
+      },
+      {
+        "id": {
+          "$oid": "624bd47cfd34eee2f4d34b3c"
+        },
+        "Name": "#recruiting "
+      },
+      {
+        "id": {
+          "$oid": "624bd4bffd34eee2f4d34b3d"
+        },
+        "Name": "#inspiration"
+      },
+      {
+        "id": {
+          "$oid": "624c143bfd34eee2f4d34b3e"
+        },
+        "Name": "#job"
+      },
+      {
+        "id": {
+          "$oid": "624c146ffd34eee2f4d34b3f"
+        },
+        "Name": "#datascience"
+      },
+      {
+        "id": {
+          "$oid": "624c14c5fd34eee2f4d34b40"
+        },
+        "Name": "#contentmarketing"
+      },
+      {
+        "id": {
+          "$oid": "624c1515fd34eee2f4d34b41"
+        },
+        "Name": "#research"
+      },
+      {
+        "id": {
+          "$oid": "624c154bfd34eee2f4d34b42"
+        },
+        "Name": "#success"
+      },
+      {
+        "id": {
+          "$oid": "624c158bfd34eee2f4d34b43"
+        },
+        "Name": "#ai"
+      },
+      {
+        "id": {
+          "$oid": "624c15f1fd34eee2f4d34b44"
+        },
+        "Name": "#storytelling"
+      },
+      {
+        "id": {
+          "$oid": "624c162cfd34eee2f4d34b45"
+        },
+        "Name": "#computerscience"
+      },
+      {
+        "id": {
+          "$oid": "624c1666fd34eee2f4d34b46"
+        },
+        "Name": "#python"
+      },
+      {
+        "id": {
+          "$oid": "624c16aafd34eee2f4d34b47"
+        },
+        "Name": "#entrepreneur"
+      }
+    ]
+  }

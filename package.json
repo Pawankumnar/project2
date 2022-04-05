@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-crud-app",
+  "version": "1.0.0",
+  "description": "Basic CURD application with nodejs mongodb expressjs",
+  "main": "server.js",
+  "scripts": {
+    "prod": "node server",
+    "watch": "nodemon server --ignore public/",
+    "start": "node server"
+  },
+  "author": "pawan rai",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
